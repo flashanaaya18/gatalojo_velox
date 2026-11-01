@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "peliculas": [
+    {
+      "id": "peli_nuevo_mvygrqqc",
+      "titulo": "La historia de Derry",
+      "anio": "2026",
+      "generos": [
+        "Drama",
+        "Terror",
+        "Misterio"
+      ],
+      "tmdb_id": 1813355,
+      "es_serie": false,
+      "sinopsis": "Siglos antes de Pennywise, tres jóvenes se adentran en el Bosque del Oeste, donde se topan con un aterrador espíritu ancestral.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5P2wp3vAGnHQvzUiJQDKxhQ3jZm.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+      "calificacion": "6.4",
+      "servidores": [
+        {
+          "url": "https://vibuxer.com/e/iw1rwq09yiab",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Streamwish [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": ""
+    }
+  ]
+}
