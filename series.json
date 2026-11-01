@@ -1,0 +1,64 @@
+{
+  "total": 1,
+  "series": [
+    {
+      "id": "serie_nuevo_mvyh4z7o",
+      "titulo": "La Caída de El Mayo",
+      "anio": "2026",
+      "generos": [
+        "Documental"
+      ],
+      "tmdb_id": 338689,
+      "es_serie": true,
+      "sinopsis": "Co-fundador del Cártel de Sinaloa, socio de larga data de \"El Chapo\", y un fantasma para las autoridades durante más de tres décadas. El documental que cuenta la historia de su caída.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ugzaqDYPrlrV7NnpKrTmaB2YeGC.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
+      "calificacion": "9.2",
+      "temporadas": [
+        {
+          "numero": 1,
+          "nombre": "Temporada 1",
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo": "Episodio 1",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/u99z4snsg169",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Episodio 2",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/1ph4ebhlw9yj",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Episodio 3",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/0d5pigr17k5h",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "url_detalle": ""
+    }
+  ]
+}
