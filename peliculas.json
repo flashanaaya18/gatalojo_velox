@@ -1,6 +1,36 @@
 {
-  "total": 1,
+  "total": 2,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvyhe9ly",
+      "titulo": "Contra el huracán",
+      "anio": "2026",
+      "generos": [
+        "Drama"
+      ],
+      "tmdb_id": 1780005,
+      "es_serie": false,
+      "sinopsis": "En medio del mar, Wirpul y su hermanastro Candi luchan por sobrevivir cuando una inesperada tormenta se convierte en el huracán Otis, de categoría 5, frente a las costas de Acapulco.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "calificacion": "7.4",
+      "servidores": [
+        {
+          "url": "https://morencius.com/embed/i3b0nw122cqc",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        },
+        {
+          "url": "https://hglink.to/e/ndhfajcqp2dh",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Streamwish [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": ""
+    },
     {
       "id": "peli_nuevo_mvygrqqc",
       "titulo": "La historia de Derry",
