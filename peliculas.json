@@ -1,6 +1,37 @@
 {
-  "total": 3,
+  "total": 4,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvyhltz2",
+      "titulo": "Street Fighter",
+      "anio": "2026",
+      "generos": [
+        "Acción",
+        "Fantasía"
+      ],
+      "tmdb_id": 1153576,
+      "es_serie": false,
+      "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/qRN8eqYwG6HPSy0i3fKzuLrUOhp.jpg",
+      "calificacion": "6.3",
+      "servidores": [
+        {
+          "url": "https://morencius.com/embed/syec8g0vr813",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        },
+        {
+          "url": "https://vibuxer.com/e/ggjh2km9ix2z",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Streamwish [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": ""
+    },
     {
       "id": "peli_nuevo_mvyhgtch",
       "titulo": "La venganza del Charro Negro",
