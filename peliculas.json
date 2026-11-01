@@ -1,6 +1,39 @@
 {
-  "total": 2,
+  "total": 3,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvyhgtch",
+      "titulo": "La venganza del Charro Negro",
+      "anio": "2026",
+      "generos": [
+        "Animación",
+        "Fantasía",
+        "Familia",
+        "Terror"
+      ],
+      "tmdb_id": 1406492,
+      "es_serie": false,
+      "sinopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k60FyAa1FSBVfQQkJ0gSXZzoD7B.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/gEQtqCN5e3joMJiYmiFH69i78d6.jpg",
+      "calificacion": "4.0",
+      "servidores": [
+        {
+          "url": "https://morencius.com/embed/04ad906gwqpk",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        },
+        {
+          "url": "https://vibuxer.com/e/xb0jwt779s3d",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": ""
+    },
     {
       "id": "peli_nuevo_mvyhe9ly",
       "titulo": "Contra el huracán",
