@@ -1,6 +1,102 @@
 {
-  "total": 1,
+  "total": 2,
   "series": [
+    {
+      "id": "serie_nuevo_mvyn7veu",
+      "titulo": "VisionQuest",
+      "anio": "2026",
+      "generos": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "tmdb_id": 213375,
+      "es_serie": true,
+      "sinopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio que rodea a su joven compañero si quiere sobrevivir.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+      "calificacion": "8.6",
+      "temporadas": [
+        {
+          "numero": 1,
+          "nombre": "Temporada 1",
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo": "Episodio 1",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/ff2tmyjmv54f",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://hglink.to/e/awr36hqblsv4",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Episodio 2",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/3rejn0ujjdzp",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://hglink.to/e/sjs9qznvlvsa",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Episodio 3",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/g59sw9p2p89d",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://vibuxer.com/e/x17tyd0brb9o",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 4,
+              "titulo": "Episodio 4",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/iexoif8263ht",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                },
+                {
+                  "url": "https://morencius.com/embed/z31mpdfk675t",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "url_detalle": ""
+    },
     {
       "id": "serie_nuevo_mvyh4z7o",
       "titulo": "La Caída de El Mayo",
