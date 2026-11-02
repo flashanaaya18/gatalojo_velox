@@ -1,6 +1,152 @@
 {
-  "total": 3,
+  "total": 4,
   "series": [
+    {
+      "id": "serie_nuevo_mvyodqdb",
+      "titulo": "It: Bienvenidos a Derry",
+      "anio": "2025",
+      "generos": [
+        "Drama",
+        "Misterio"
+      ],
+      "tmdb_id": 200875,
+      "es_serie": true,
+      "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+      "calificacion": "8.3",
+      "temporadas": [
+        {
+          "numero": 1,
+          "nombre": "Temporada 1",
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo": "Episodio 1",
+              "servidores": [
+                {
+                  "url": "https://callistanise.com/embed/jn6rt38qo32s",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://morencius.com/embed/25m1ujgepjp5",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Episodio 2",
+              "servidores": [
+                {
+                  "url": "https://callistanise.com/v/oki3pbdnzcve",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Episodio 3",
+              "servidores": [
+                {
+                  "url": "https://callistanise.com/v/ytzokbxaddbz",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 4,
+              "titulo": "Episodio 4",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/zunmbgv1r0ha",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 5,
+              "titulo": "Episodio 5",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/nywp947o24z3",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 6,
+              "titulo": "Episodio 6",
+              "servidores": [
+                {
+                  "url": "https://callistanise.com/embed/o2z9iuyb3hmu",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Episodio 7",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/6fsgoleoid2u",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 8,
+              "titulo": "Episodio 8",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/f0wtzhlknv5j",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 9,
+              "titulo": "Episodio 9",
+              "servidores": [
+                {
+                  "url": "https://vibuxer.com/e/iw1rwq09yiab",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Temporada 2",
+          "episodios": []
+        }
+      ],
+      "url_detalle": "",
+      "es_cam": false,
+      "episodio_nuevo": false,
+      "temporada_nueva": false
+    },
     {
       "id": "serie_nuevo_mvynupvt",
       "titulo": "Lupin",
