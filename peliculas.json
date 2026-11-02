@@ -1,6 +1,33 @@
 {
-  "total": 5,
+  "total": 6,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvyp2ugk",
+      "titulo": "Hanging by a Wire",
+      "anio": "2026",
+      "generos": [
+        "Documental"
+      ],
+      "tmdb_id": 1480856,
+      "es_serie": false,
+      "sinopsis": "",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bjuAx0fTZMOBIcH6v6oPbge4P6V.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
+      "calificacion": "7.2",
+      "servidores": [
+        {
+          "url": "https://vibuxer.com/e/ex9iux4afj74",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": "",
+      "es_cam": false,
+      "episodio_nuevo": false,
+      "temporada_nueva": false
+    },
     {
       "id": "peli_nuevo_mvynqt0k",
       "titulo": "Los hermanos demolición",
