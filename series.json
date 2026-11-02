@@ -1,6 +1,177 @@
 {
-  "total": 2,
+  "total": 3,
   "series": [
+    {
+      "id": "serie_nuevo_mvynupvt",
+      "titulo": "Lupin",
+      "anio": "2021",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Misterio"
+      ],
+      "tmdb_id": 96677,
+      "es_serie": true,
+      "sinopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "calificacion": "7.7",
+      "temporadas": [
+        {
+          "numero": 1,
+          "nombre": "Temporada 1: Parte 1 y 2",
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo": "Episodio 1",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/bt02xsumwrjx",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 2,
+              "titulo": "Episodio 2",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/mdo1pzsyr9dp",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 3,
+              "titulo": "Episodio 3",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/l7xjgafqnu6t",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 4,
+              "titulo": "Episodio 4",
+              "servidores": [
+                {
+                  "url": "https://hglink.to/e/lc45zep42qm0",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 5,
+              "titulo": "Episodio 5",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/qv0loa6ioc5i",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 6,
+              "titulo": "Episodio 6",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/xr384krlhabi",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 7,
+              "titulo": "Episodio 7",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/wjzzljqta783",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 8,
+              "titulo": "Episodio 8",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/wdhch1ig8yuu",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 9,
+              "titulo": "Episodio 9",
+              "servidores": [
+                {
+                  "url": "https://medixiru.com/e/bmzgr457odx4",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 10,
+              "titulo": "Episodio 10",
+              "servidores": [
+                {
+                  "url": "https://hgplaycdn.com/e/hub4npt76j6y",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 2,
+          "nombre": "Temporada 2: Parte 3",
+          "episodios": [
+            {
+              "numero": 1,
+              "titulo": "Episodio 1",
+              "servidores": [
+                {
+                  "url": "https://streamwish.to/e/n52r8wmwi6xz",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": 3,
+          "nombre": "Temporada 3: Parte 4",
+          "episodios": []
+        }
+      ],
+      "url_detalle": "",
+      "es_cam": false,
+      "episodio_nuevo": false,
+      "temporada_nueva": false
+    },
     {
       "id": "serie_nuevo_mvyn7veu",
       "titulo": "VisionQuest",
