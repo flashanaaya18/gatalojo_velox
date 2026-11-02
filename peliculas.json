@@ -1,6 +1,42 @@
 {
-  "total": 7,
+  "total": 8,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvyq0kmz",
+      "titulo": "Coco",
+      "anio": "2017",
+      "generos": [
+        "Familia",
+        "Animación",
+        "Música",
+        "Aventura"
+      ],
+      "tmdb_id": 354912,
+      "es_serie": false,
+      "sinopsis": "Un joven aspirante a músico llamado Miguel se embarca en un viaje extraordinario a la mágica tierra de sus ancestros. Allí, el encantador embaucador Héctor se convierte en su inesperado amigo y le ayuda a descubrir los misterios detrás de las historias y tradiciones de su familia.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vwsFGblLYxWBNjg9pdWN1Mm5YfW.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "calificacion": "8.2",
+      "servidores": [
+        {
+          "url": "https://callistanise.com/v/nd3ydqikc12b",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        },
+        {
+          "url": "https://streamwish.to/e/0sasfe6hmxn5",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Streamwish [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": "",
+      "es_cam": false,
+      "episodio_nuevo": false,
+      "temporada_nueva": false
+    },
     {
       "id": "peli_nuevo_mvypynk9",
       "titulo": "La otra madre",
