@@ -1,6 +1,33 @@
 {
-  "total": 6,
+  "total": 7,
   "peliculas": [
+    {
+      "id": "peli_nuevo_mvypynk9",
+      "titulo": "La otra madre",
+      "anio": "2026",
+      "generos": [
+        "Terror"
+      ],
+      "tmdb_id": 1400837,
+      "es_serie": false,
+      "sinopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+      "calificacion": "5.8",
+      "servidores": [
+        {
+          "url": "https://morencius.com/embed/u0x3xxtt1f1t",
+          "idioma": "Latino",
+          "calidad": "HD",
+          "servidor": "Vidhide [Latino]"
+        }
+      ],
+      "url_detalle": "",
+      "url_iframe_directo": "",
+      "es_cam": true,
+      "episodio_nuevo": false,
+      "temporada_nueva": false
+    },
     {
       "id": "peli_nuevo_mvyp2ugk",
       "titulo": "La isla olvidada",
