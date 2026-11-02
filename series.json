@@ -91,11 +91,48 @@
                   "servidor": "Vidhide [Latino]"
                 }
               ]
+            },
+            {
+              "numero": 5,
+              "titulo": "Episodio 5",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/s510oafduwu4",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://hglink.to/e/6cxwhhmpls2z",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
+            },
+            {
+              "numero": 6,
+              "titulo": "Episodio 6",
+              "servidores": [
+                {
+                  "url": "https://morencius.com/embed/gniiy20w34z6",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Vidhide [Latino]"
+                },
+                {
+                  "url": "https://hglink.to/e/xl4itfoxc4d",
+                  "idioma": "Latino",
+                  "calidad": "HD",
+                  "servidor": "Streamwish [Latino]"
+                }
+              ]
             }
           ]
         }
       ],
-      "url_detalle": ""
+      "url_detalle": "",
+      "episodio_nuevo": true
     },
     {
       "id": "serie_nuevo_mvyh4z7o",
