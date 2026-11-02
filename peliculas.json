@@ -3,28 +3,32 @@
   "peliculas": [
     {
       "id": "peli_nuevo_mvyp2ugk",
-      "titulo": "Hanging by a Wire",
+      "titulo": "La isla olvidada",
       "anio": "2026",
       "generos": [
-        "Documental"
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia",
+        "Familia"
       ],
-      "tmdb_id": 1480856,
+      "tmdb_id": 1465063,
       "es_serie": false,
-      "sinopsis": "",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bjuAx0fTZMOBIcH6v6oPbge4P6V.jpg",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
-      "calificacion": "7.2",
+      "sinopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s6zlUeVNSZcIFt0nBLGdrDbBMMH.jpg",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "calificacion": "7.9",
       "servidores": [
         {
-          "url": "https://vibuxer.com/e/ex9iux4afj74",
+          "url": "https://vibuxer.com/e/m3xbeo2ps946",
           "idioma": "Latino",
           "calidad": "HD",
-          "servidor": "Vidhide [Latino]"
+          "servidor": "Streamwish [Latino]"
         }
       ],
       "url_detalle": "",
       "url_iframe_directo": "",
-      "es_cam": false,
+      "es_cam": true,
       "episodio_nuevo": false,
       "temporada_nueva": false
     },
